@@ -1,0 +1,16 @@
+ID,Guest,Room_Type,Nights,Deposit_Paid,Booking_Status
+1,Ahmed,Single,2,Yes,Confirmed
+2,Ali,Double,3,Yes,Confirmed
+3,Omar,Single,1,No,Pending
+4,Hassan,Deluxe,4,Yes,Confirmed
+5,Abdi,Double,2,No,Pending
+6,Yusuf,Single,3,Yes,Confirmed
+7,Mohamed,Deluxe,5,Yes,Confirmed
+8,Said,Double,1,No,Pending
+9,Khalid,Single,2,Yes,Confirmed
+10,Bashir,Deluxe,3,No,Pending
+11,Ismail,Double,4,Yes,Confirmed
+12,Farah,Single,1,No,Pending
+13,Jama,Deluxe,2,Yes,Confirmed
+14,Abdirahman,Double,3,No,Pending
+15,Mahad,Single,5,Yes,Confirmed
